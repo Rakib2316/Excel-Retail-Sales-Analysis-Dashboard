@@ -137,21 +137,6 @@ Through this project, I learned:
 
 ---
 
-## 📌 Future Improvements
-
-- Data Cleaning
-- Data Analysis
-- KPI Development
-- Dashboard Design
-- Data Visualization
-- Business Intelligence
-- Interactive Reporting
-- Excel Pivot Tables
-- Pivot Charts
-- Slicer Implementation
-
----
-
 ## 👨‍💻 Author
 
 **Md. Jahidul Islam Rakib**
